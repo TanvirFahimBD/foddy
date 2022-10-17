@@ -1,0 +1,19 @@
+.banner{
+    background-image: url('../../../images/bannerbackground.png');
+    min-height: 600px;
+    position: relative;
+}
+
+.banner-content{
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 700px;
+}
+
+.food-input{
+    text-align: left;
+    min-width: 440px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 30px;
+}

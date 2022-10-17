@@ -1,0 +1,12 @@
+.item{
+    margin: 10px 0px;
+}
+.item:nth-child(2){
+    border: 1px solid lightgray;
+    border-radius: 5px;
+}
+.item:hover{
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    box-shadow: 4px 4px 4px 4px lightgray;
+}
